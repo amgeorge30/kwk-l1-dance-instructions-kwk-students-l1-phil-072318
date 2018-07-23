@@ -18,3 +18,6 @@ def skip_step
   puts "Right, Left, Right and Right"
 end
 skip_step
+
+def bob_the_reins
+  puts ""
