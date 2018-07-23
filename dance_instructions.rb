@@ -15,4 +15,6 @@ def skip_step
   puts "Left, Right, Left and Left"
   puts "Lower right foot to the ground"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
-  puts ""
+  puts "Right, Left, Right and Right"
+end
+skip_step
