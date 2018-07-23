@@ -34,9 +34,9 @@ def lasso
 end
 
 starting_stance
+skip_step
+skip_step
 lower_body
-skip_step
-skip_step
 bob_the_reins
 skip_step
 skip_step
