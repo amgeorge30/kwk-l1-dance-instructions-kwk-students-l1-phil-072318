@@ -17,7 +17,7 @@ def skip_step
   puts "Left, Right, Left and Left"
  # puts "Lower right foot to the ground"
   #puts "Bounce right foot back up slightly, kicking it a few inches back"
-  puts "Right, Left, Right and Right"
+  #puts "Right, Left, Right and Right"
 end
 
 def bob_the_reins
