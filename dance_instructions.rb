@@ -2,5 +2,6 @@
 # Code your methods below
 
 def Lower_body
-  put "Plant legs far apart, bend knees slightly and keep posture loose"
-  
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
+  puts "Lift right foot"
+  puts ""
