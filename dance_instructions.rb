@@ -10,4 +10,5 @@ end
 
 lower_body
 def step_left
+  puts "Lower left foot to the ground"
   puts ""
